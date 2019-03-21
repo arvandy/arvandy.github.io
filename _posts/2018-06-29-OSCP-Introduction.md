@@ -4,13 +4,13 @@ title: OSCP Introduction
 tags: [oscp]
 comments: true
 ---
-
-![oscp](https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp-certs.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp-certs.png">
+</p>
 
 <br><br>
 <p style="text-align: justify;">
-If you are interested in information security especially in penetration test field, you must have heard about this certification. The **Offensive Security Certified Professional (OSCP)** is an information security certification provided by Offensive-Security for people that completed their **Penetration Testing with Kali Linux (PWK)** course and exam. This is the world’s first completely hands-on offensive information security certification. There's no theoretical exam using multiple choices question. The OSCP challenges the students to prove they have a clear and practical understanding of the penetration testing process and life-cycle through an arduous twenty-four (24) hour practical exam performing pentest on a network containing vulnerable machines. 
+If you are interested in information security especially in penetration test field, you must have heard about this certification. The <b>Offensive Security Certified Professional (OSCP)</b> is an information security certification provided by Offensive-Security for people that completed their **Penetration Testing with Kali Linux (PWK)** course and exam. This is the world’s first completely hands-on offensive information security certification. There's no theoretical exam using multiple choices question. The OSCP challenges the students to prove they have a clear and practical understanding of the penetration testing process and life-cycle through an arduous twenty-four (24) hour practical exam performing pentest on a network containing vulnerable machines. 
 <br><br>
 **PWK Course**
 **Penetration Testing with Kali (PWK)** is a self-paced online pen testing course designed for network administrators and security professionals who want to take a serious and meaningful step into the world of professional penetration testing. Offensive-Security PWK Course simulates a full penetration test by providing the students with a target-rich, diverse, and vulnerable network environment lab. The course comes with 30, 60 and 90 days lab access which can be extend as needed.
