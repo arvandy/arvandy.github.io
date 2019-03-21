@@ -50,7 +50,7 @@ In less than a month, I am able to exploits 12 of 20 active machines on HackTheB
 <b>April to May 2018</b>, I am near the end of the college semester. A lot of my time spent on college tasks. I still spare times practicing in HackTheBox and VulnHub machines that similar to OSCP: Kioptrix series, Stapler, PwnLab: Init, Fristileaks 1.3, SickOs 1.2, PwnOS, Quaoar, MR. Robot and Vulnix.
 <br><br>
 <b>June 2018</b>: Finish up my second semester and got almost three months holidays! The next semester will begin on 20 August. I spent this month on PWK registration and final preparations.
-<br><br>
+<br>
 <ul>
 <li>Register for PWK Course (4-5 June 2018)</li>
 <li>Practice on remaining VulnHub machines that similar to OSCP:<br>
@@ -63,10 +63,10 @@ IppSec did a great job explaining his methodology on exploiting vulnerable machi
 <li>Making notes on post-exploitation. </li>
 <li>Create Documentation Strategy. </li>
 </ul>
-<br><br>
+<br>
 For documentation I choose Cherry Tree and make my note structure as below:<br>
 <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/cherrytree.png">
-<br><br>
+<br>
 That's all of my preparation journeys before starting my PWK Course on July 1st. Did it good enough for OSCP? Honestly, I have no idea. One thing I know is I learn a lot these past eight months. I am excited to see how far it will take me on OSCP lab. I know the exact detail of my journey because I have a habit to keep tracks of my daily activities. It's just a simple excel worksheet. I use it to optimize my times and disciplines myself in making progress every day even if it's just a small progress. A small thing with great impact. </p>
 <br>
 <p align="center">
