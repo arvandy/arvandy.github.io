@@ -62,6 +62,7 @@ I got the lists from this <a href="https://forum.hackthebox.eu/discussion/612/os
 IppSec did a great job explaining his methodology on exploiting vulnerable machines and showing new technique or tool on every video. Most of the videos are write-up for HackTheBox machines that retired every Saturday. If you are new and want to learn the methodology, you can start with this <a href="https://www.youtube.com/watch?v=Lqehvpe_djs&list=PLidcsTyj9JXKPJk1X3eKquMfXShMzpOfI" target="_blank">playlist</a>.</li>
 <li>Making notes on post-exploitation. </li>
 <li>Create Documentation Strategy. </li>
+</ul>
 <br><br>
 For documentation I choose Cherry Tree and make my note structure as below:<br>
 <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/cherrytree.png">
