@@ -4,9 +4,9 @@ title: OSCP Introduction
 tags: [oscp]
 comments: true
 ---
-<p align="center">
+
 ![oscp](https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp-certs.png)
-</p>
+
 
 <br><br>
 <p style="text-align: justify;">
