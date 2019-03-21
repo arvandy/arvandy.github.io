@@ -32,7 +32,7 @@ I download these VulnHub machines: Kioptrix series, Simple, Stapler, SickOs 1.2 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/owned_machine.png">
 </p>
-<br><br>
+<br>
 <p style="text-align: justify;">
 In less than a month, I am able to exploits 12 of 20 active machines on HackTheBox. Overall I am happy with my progress, but there's one thing that keeps bothering me. I didn't exploit it all by myself, I got help/hint/pointer from my friends that I meet there. That thought keeps bothering me, I start questioning myself is this the right way to learn, is it okay to ask for a hint and if I continue this way is this gonna make me lazy to try harder. So far my methodology on exploiting those machines was jumping straight into the machines, reading the forum post, and a LOT of googling/research whenever I am stuck. If I still can't find the answer then I will be asking for hint/pointer, usually its some attack vectors/techniques/concepts that I am not even aware if its exist. Its a month of an exciting and sleepless night but I really enjoy the process and happy with the progress I made. I really learn a lot from each machine that I exploited.
 <br><br>
@@ -47,9 +47,33 @@ In less than a month, I am able to exploits 12 of 20 active machines on HackTheB
 <br><br>
 <b>March 2018</b>, From reading a lot of OSCP write-ups, I know there's a machine on the OSCP exam that vulnerable to buffer overflow with the highest point. I have learned some basic Linux buffer overflow from exploiting HackTheBox machines but not yet touching Windows buffer overflow. I learn simple Windows buffer overflow using <a href="http://www.pentesteracademy.com/course?id=13" target="_blank">PentesterAcademy: Exploiting Simple Buffer Overflows on Win32 Course</a>. This course is amazing, it will guide you from the very basic and give you some exercises to actually practicing it. I highly recommend this course to learn basic overflow on win32, even though I don't know for sure if this course relevant with OSCP buffer overflow.
 <br><br>
-<b>April to May 2018</a>, I am near the end of the college semester. A lot of my time spent on college tasks. I still spare times practicing in HackTheBox and VulnHub machines that similar to OSCP: Kioptrix series, Stapler, PwnLab: Init, Fristileaks 1.3, SickOs 1.2, PwnOS, Quaoar, MR. Robot and Vulnix.
+<b>April to May 2018</b>, I am near the end of the college semester. A lot of my time spent on college tasks. I still spare times practicing in HackTheBox and VulnHub machines that similar to OSCP: Kioptrix series, Stapler, PwnLab: Init, Fristileaks 1.3, SickOs 1.2, PwnOS, Quaoar, MR. Robot and Vulnix.
 <br><br>
 <b>June 2018</b>: Finish up my second semester and got almost three months holidays! The next semester will begin on 20 August. I spent this month on PWK registration and final preparations.
-
-
+<br><br>
+* Register for PWK Course (4-5 June 2018)<br>
+* Practice on remaining VulnHub machines that similar to OSCP:<br>
+SkyTower and Brainpan 1<br>
+* Practice on HackTheBox machines that similar to OSCP:<br>
+Lame, Popcorn, Bastard, Grandpa/Granny, Tally,  Bashed, Jeeves, Mirai, Solidstate, Shocker, Haircut, Nineveh, Beep, Sense, Nibbles, Valentine, Bart, and Chatterbox.<br>
+I got the lists from this <a href="https://forum.hackthebox.eu/discussion/612/oscp-practice" target="_blank">forum post</a>.<br>
+* Watch all IppSec videos on HackTheBox and make notes on the techniques.<br>
+IppSec did a great job explaining his methodology on exploiting vulnerable machines and showing new technique or tool on every video. Most of the videos are write-up for HackTheBox machines that retired every Saturday. If you are new and want to learn the methodology, you can start with this <a href="https://www.youtube.com/watch?v=Lqehvpe_djs&list=PLidcsTyj9JXKPJk1X3eKquMfXShMzpOfI" target="_blank">playlist</a>.<br>
+* Making notes on post-exploitation.
+* Create Documentation Strategy.
+<br><br>
+For documentation I choose Cherry Tree and make my note structure as below:<br>
+<img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/cherrytree.png">
+<br><br>
+That's all of my preparation journeys before starting my PWK Course on July 1st. Did it good enough for OSCP? Honestly, I have no idea. One thing I know is I learn a lot these past eight months. I am excited to see how far it will take me on OSCP lab. I know the exact detail of my journey because I have a habit to keep tracks of my daily activities. It's just a simple excel worksheet. I use it to optimize my times and disciplines myself in making progress every day even if it's just a small progress. A small thing with great impact. </p>
+<br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/dailylog.png">
+</p>
+<br>
+<p style="text-align: justify;">
+For the upcoming PWK course, I will use a mixed approach. The first week will be spent on learning the course materials (video and pdf) and completing as many as exercises possible while I do some enumerations for the lab machines on the background.
+<br><br>
+I challenge myself to exploit ALL the machines in the lab and get the OSCP Certification at the first attempt! It’s NOT because I am expecting it to be easy or thinking I am really that good. It surely will be hard and scaring. But If I am not scared then I am not taking a chance and if I am not taking a chance, then what the hell am I doing anyway. I will update my OSCP progress once a week on Saturday night and I hope it will be an enjoyable reading.
+<br>
 
