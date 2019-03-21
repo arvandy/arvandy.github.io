@@ -40,9 +40,9 @@ In less than a month, I am able to exploits 12 of 20 active machines on HackTheB
 <br><br>
 <b>February 2018</b>, I decided that the best learning method that suits me is learning by doing it. I convince myself its okay to ask for a hint as long as I made sure I have tried hard enough using everything I knew before asking for it. I take it as part of learning process. It's better to ask for hints rather than stuck for weeks without progress. Hints will make me proceed further and gains more knowledges. I still need to brush up some of my basic before went back to HackTheBox. I spent around one week doing this before went back:
 <br><br>
-<b>Linux</b>: <a href="https://linuxjourney.com/" target="_blank">Linux journey</a> (Grasshopper, Journeyman, Networking Nomad) and <a href="https://cmdchallenge.com/" target="_blank">CMD Challenges</a>.
-<b>PowerShell</b>: <a href="http://www.underthewire.tech/wargames.htm" target="_blank">UnderTheWire</a> (Century and Cyborg).
-<b>Linux Privilege Escalation</b>: <a href="https://exploit-exercises.com/nebula/" target="_blank">Exploit-exercise Nebula</a> (Level 01-11).
+<b>Linux</b>: <a href="https://linuxjourney.com/" target="_blank">Linux journey</a> (Grasshopper, Journeyman, Networking Nomad) and <a href="https://cmdchallenge.com/" target="_blank">CMD Challenges</a>.<br>
+<b>PowerShell</b>: <a href="http://www.underthewire.tech/wargames.htm" target="_blank">UnderTheWire</a> (Century and Cyborg).<br>
+<b>Linux Privilege Escalation</b>: <a href="https://exploit-exercises.com/nebula/" target="_blank">Exploit-exercise Nebula</a> (Level 01-11).<br>
 <b>Python</b>: <a href="https://www.cybrary.it/course/python/" target="_blank">Cybrary: Python for Security Professional</a>.
 <br><br>
 <b>March 2018</b>, From reading a lot of OSCP write-ups, I know there's a machine on the OSCP exam that vulnerable to buffer overflow with the highest point. I have learned some basic Linux buffer overflow from exploiting HackTheBox machines but not yet touching Windows buffer overflow. I learn simple Windows buffer overflow using <a href="http://www.pentesteracademy.com/course?id=13" target="_blank">PentesterAcademy: Exploiting Simple Buffer Overflows on Win32 Course</a>. This course is amazing, it will guide you from the very basic and give you some exercises to actually practicing it. I highly recommend this course to learn basic overflow on win32, even though I don't know for sure if this course relevant with OSCP buffer overflow.
