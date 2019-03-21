@@ -51,9 +51,10 @@ In less than a month, I am able to exploits 12 of 20 active machines on HackTheB
 <br><br>
 <b>June 2018</b>: Finish up my second semester and got almost three months holidays! The next semester will begin on 20 August. I spent this month on PWK registration and final preparations.
 <br><br>
-* Register for PWK Course (4-5 June 2018)<br>
-* Practice on remaining VulnHub machines that similar to OSCP:<br>
-SkyTower and Brainpan 1<br>
+<ul>
+<li>Register for PWK Course (4-5 June 2018)</li>
+<li>Practice on remaining VulnHub machines that similar to OSCP:<br>
+SkyTower and Brainpan 1</li>
 * Practice on HackTheBox machines that similar to OSCP:<br>
 Lame, Popcorn, Bastard, Grandpa/Granny, Tally,  Bashed, Jeeves, Mirai, Solidstate, Shocker, Haircut, Nineveh, Beep, Sense, Nibbles, Valentine, Bart, and Chatterbox.<br>
 I got the lists from this <a href="https://forum.hackthebox.eu/discussion/612/oscp-practice" target="_blank">forum post</a>.<br>
@@ -66,7 +67,7 @@ For documentation I choose Cherry Tree and make my note structure as below:<br>
 <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/cherrytree.png">
 <br><br>
 That's all of my preparation journeys before starting my PWK Course on July 1st. Did it good enough for OSCP? Honestly, I have no idea. One thing I know is I learn a lot these past eight months. I am excited to see how far it will take me on OSCP lab. I know the exact detail of my journey because I have a habit to keep tracks of my daily activities. It's just a simple excel worksheet. I use it to optimize my times and disciplines myself in making progress every day even if it's just a small progress. A small thing with great impact. </p>
-<br><br>
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/dailylog.png">
 </p>
