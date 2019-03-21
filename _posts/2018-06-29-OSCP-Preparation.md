@@ -55,10 +55,10 @@ In less than a month, I am able to exploits 12 of 20 active machines on HackTheB
 <li>Register for PWK Course (4-5 June 2018)</li>
 <li>Practice on remaining VulnHub machines that similar to OSCP:<br>
 SkyTower and Brainpan 1</li>
-<li>Practice on HackTheBox machines that similar to OSCP:<br>
-Lame, Popcorn, Bastard, Grandpa/Granny, Tally,  Bashed, Jeeves, Mirai, Solidstate, Shocker, Haircut, Nineveh, Beep, Sense, Nibbles, Valentine, Bart, and Chatterbox.<br>
+<li>Practice on HackTheBox machines that similar to OSCP:
+<p style="text-align: justify;">Lame, Popcorn, Bastard, Grandpa/Granny, Tally,  Bashed, Jeeves, Mirai, Solidstate, Shocker, Haircut, Nineveh, Beep, Sense, Nibbles, Valentine, Bart, and Chatterbox.</p>
 I got the lists from this <a href="https://forum.hackthebox.eu/discussion/612/oscp-practice" target="_blank">forum post</a>.</li>
-<li>Watch all IppSec videos on HackTheBox and make notes on the techniques.<br>
+<li>Watch all IppSec videos on HackTheBox and make notes on the techniques.
 <p style="text-align: justify;">IppSec did a great job explaining his methodology on exploiting vulnerable machines and showing new technique or tool on every video. Most of the videos are write-up for HackTheBox machines that retired every Saturday. If you are new and want to learn the methodology, you can start with this <a href="https://www.youtube.com/watch?v=Lqehvpe_djs&list=PLidcsTyj9JXKPJk1X3eKquMfXShMzpOfI" target="_blank">playlist</a>.</p></li>
 <li>Making notes on post-exploitation. </li>
 <li>Create Documentation Strategy. </li>
