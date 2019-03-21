@@ -66,7 +66,8 @@ IppSec did a great job explaining his methodology on exploiting vulnerable machi
 <br>
 For documentation I choose Cherry Tree and make my note structure as below:<br>
 <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/cherrytree.png">
-<br>
+<br> </p>
+<p style="text-align: justify;">
 That's all of my preparation journeys before starting my PWK Course on July 1st. Did it good enough for OSCP? Honestly, I have no idea. One thing I know is I learn a lot these past eight months. I am excited to see how far it will take me on OSCP lab. I know the exact detail of my journey because I have a habit to keep tracks of my daily activities. It's just a simple excel worksheet. I use it to optimize my times and disciplines myself in making progress every day even if it's just a small progress. A small thing with great impact. </p>
 <br>
 <p align="center">
