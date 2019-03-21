@@ -7,8 +7,7 @@ comments: true
 <p align="center">
   <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp-certs.png">
 </p>
-
-<br><br>
+<br>
 <p style="text-align: justify;">
 If you are interested in information security especially in penetration test field, you must have heard about this certification. The <b>Offensive Security Certified Professional (OSCP)</b> is an information security certification provided by Offensive-Security for people that completed their <b>Penetration Testing with Kali Linux (PWK)</b> course and exam. This is the world’s first completely hands-on offensive information security certification. There's no theoretical exam using multiple choices question. The OSCP challenges the students to prove they have a clear and practical understanding of the penetration testing process and life-cycle through an arduous twenty-four (24) hour practical exam performing pentest on a network containing vulnerable machines. 
 <br><br>
