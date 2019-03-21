@@ -1,15 +1,36 @@
 ---
 layout: post
-title: Flake it till you make it
+title: OSCP Preparation
 subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
-tags: [books, test]
+tags: [oscp]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+<p style="text-align: justify;">
+Reading OSCP journey and write-up always motivates me to take the PWK course and obtains OSCP certification. By writing my own journey I hope it can motivate and encourages other people that share the same enthusiasm.  Tuesday 5 June 2018, I completed PWK course registration with 60 days lab access that starts on 1 July 2018.
+<br><br>
+<b>My background<b>
+<br>
+As of now, I pursuing my master degree in information security and just finish up my second semester. Before continue my study on master degree, I have three years of IT professional experiences mostly in ERP, programming, and data management stuff. I have zero experiences on pen-testing, never exploit any vulnerable machines and rarely use Linux.
+<br><br>
+<b>Preparation Journey<b>
+<br>
+My preparation for OSCP started around September 2017. I started from the bottom, the only sort of "hacking" or exploit things I ever did was using Armitage on BackTrack for my college task, back in 2011. I never use Kali Linux before, didn't know what is bind/reverse shell, LFI, RFI, RCE and only know the theory of SQL injection but never really doing it. I do have basic knowledge on networking and programming, but If it comes to pen-testing I am totally blind.
+<br>
+<b>September 2017 - Finding resources</b>
+<br>
+At first, like any other newbies on this field, I am so clueless on where and how to start. I started with download bunch of e-books and hacking videos from YouTube. Although the e-book contains a lot of good information, I found it bored and hard to grasp the concept without actually practicing it.  On the other hand, the videos I found only showing the straight way to exploits a machine without explaining how and why. I spend a lot of time trying to find right places that suit me.
+<br>
+<b>October to November 2017 - VulnHub and OverTheWire<b>
+<br>
+I joined Facebook group <a href="https://www.facebook.com/groups/oscpsg/" target="_blank">"OSCP Study Group"</a> and this group helps me find the right places to start. I found two great Pen-test platform from this group which is <a href="https://www.vulnhub.com/" target="_blank">VulnHub</a> and <a href="https://www.hackthebox.eu/" target="_blank">HackTheBox</a>. On 16 October 2017, I joined HackTheBox with the help of "google" to find the entry point for getting the invite code. After getting in, I didn't know what to do, all I can do at that time was just running Nmap scan. I have no idea what to do with the information from the Nmap since I never exploit any machines before. I decided it too soon for me to start there and shifting myself to VulnHub machine to learn the methodology from the write-up.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+I download these VulnHub machines: Kioptrix series, Simple, Stapler, SickOs 1.2 and Quaoar, follow the write-up and trying to understand the methodology on exploiting a vulnerable machine. I didn't and can't exploit any of them on my own. After learning the methodology, I brush up my Linux and web security basic by doing OverTheWire challenges. I did OverTheWire Bandit (1-27) and OverTheWire Natas (1-10).
+<br><br>
+<b>November 2017 to Present - HackTheBox</b>
+<br>
+<b>19 November 2017</b>, After feel confident enough on the basic and methodology, I went back to HackTheBox and successfully exploit "Blue" machine. The first vulnerable machine that I exploit on my own. Even though its just as simple as firing the Metasploit, the feeling is amazing and made me addicted. From that time, I spent most of my free time practicing on the HackTheBox machines.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+
+
+
