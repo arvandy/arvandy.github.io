@@ -31,7 +31,7 @@ After completing the registration, you will get the course materials and VPN con
 <p style="text-align: justify;">
 <b>PWK Exam</b>
 <br>
-The exam consists of a virtual network containing machines with varying configurations and operating systems. There are five machines to be exploited by the students. Each machine has different points, the hardest machine has 25 points and the easiest machine has 10 points. In order to pass the exam and gain the OSCP certification, the student needs to collect at least 70 points and submit a comprehensive penetration test report. The student is given 23.45 hours to exploit the machines and another 24 hours to prepare and submit the report. For more detailed about the exam, you can get it from https://support.offensive-security.com/#!oscp-exam-guide.md.
+The exam consists of a virtual network containing machines with varying configurations and operating systems. There are five machines to be exploited by the students. Each machine has different points, the hardest machine has 25 points and the easiest machine has 10 points. In order to pass the exam and gain the OSCP certification, the student needs to collect at least 70 points and submit a comprehensive penetration test report. The student is given 23.45 hours to exploit the machines and another 24 hours to prepare and submit the report. For more detailed about the exam, you can get it from the <a href="https://support.offensive-security.com/#!oscp-exam-guide.md">OSCP Exam Guide</a>.
 <br><br>
 </p>
-Credits: http://offensive-security.com/
+Credits: <a hred="http://offensive-security.com/">http://offensive-security.com"</a>
