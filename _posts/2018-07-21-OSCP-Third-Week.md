@@ -37,7 +37,7 @@ tags: [oscp]
 
 <p style="text-align: justify;">
 Exploiting Master machine using the intended way indeed a long journey but its worthy. I think that's the way OffSec want us to learn, by doing proper post-enumeration and try figure out how the machine related with the others. This week I exploited 16 machines and unlock Development and Admin Network. This means I have successfully unlocked all of the networks in the lab. I am getting closer to achieve my personal challenges. </p>
-
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/control_panel.png">
 </p>
@@ -51,6 +51,6 @@ So far my opinion about the lab is the Public and Admin network more dominant on
   <li align="justify">If things start getting complicated and you think you are deep in rabbit holes, take a break. Check again your enumeration note and ask yourself if there are any steps you missed or some obvious/simple things you forget to do.</li>
   <li align="justify">Running NMAP with Proxychains is slow, especially on double pivoting. As an alternative, you can upload NMAP to the "pivot" machine and scan it from there or scan using NC.</li>
   <li align="justify">For double pivoting, I found this website explained it well and applicable.
-https://pentest.blog/explore-hidden-networks-with-double-pivoting/</li>
+<a href="https://pentest.blog/explore-hidden-networks-with-double-pivoting/">https://pentest.blog/explore-hidden-networks-with-double-pivoting/</a></li>
 </ul>
 <br><br>
