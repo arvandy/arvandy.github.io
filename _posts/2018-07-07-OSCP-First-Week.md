@@ -57,4 +57,17 @@ After getting enough sleep, I successfully gain root access in 1 hour. Same as P
   <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/GHOST.png">
 </p>
 <br>
-
+<br>
+**TIPS:**
+<ul>
+  <li align="justify">You MUST do the course materials and exercises, it's a GEM. Even when you already familiar with most of the topics, it will become a refresher. When you attacking machines in the lab it will help you spot the “vulnerability” faster. I think it took around 30-50 hours to complete it. Sparing your time at the beginning for this can save your day later in the lab. </li>
+  <li align="justify">In course materials and exercises, some of the tools are outdated and have version issues with Offsec Kali VM. If you encounter any issues, search the problem on the Offsec forum. Most of them are known issues and there are solutions available there.</li>
+  <li align="justify">Don't just do nothing waiting for Nmap scan finish. Make some guess like checking if web service opens using the browser, checking if FTP, SSH or any other common services open using NC and do some manual enumeration while waiting.</li>
+  <li align="justify">NMAP Scripts are powerful tools to check for vulnerability. Get familiar with it and play with the scripts. All of the scripts located in /usr/share/nmap/scripts/ directory.</li>
+  <li align="justify">Most of the public exploits won't work without modifying it. It usually has hardcoded IP address and Path. Make sure you understand the exploit and change it as necessary.</li>
+  <li align="justify">When compiling exploit, compile it on the environment (OS/kernel) that as close as possible with the target machine. If the target machine didn't have the compiler, the workaround could be downloading the same OS as target machine, install and compile it there, but it takes a lot of times. I found out that some of Vulnhub VM Machines that similar to OSCP can be used to compile the exploit too. I am using Kioptrix machines to compile the old exploit and it works so far. Saving time on downloading and installing new OS.</li>
+<li align="justify">MSF is a powerful tool even though its restricted in the exam. Use MSF for post-exploitation, it makes your life easier to upload and download the file using Meterpreter shell. It also has many post-exploitation modules that really helpful.</li>
+<li align="justify">For some of the straightforward machines, the methodology is simple: NMAP -> check service or software version for known vulnerability (searchsploit or google) -> read and understand the public exploit code -> make the necessary changes -> exploit.</li>
+  <li align="justify">Google anything that you find suspicious or anything that you don't know at all.</li>
+    <li align="justify">Spare your time to make write up after you exploit a machine. It will make you understand better your current methodology and how to improve it. Someday you may also encounter similar machines and it will help you.</li>
+</ul>
