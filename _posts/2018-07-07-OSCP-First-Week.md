@@ -71,3 +71,4 @@ After getting enough sleep, I successfully gain root access in 1 hour. Same as P
   <li align="justify">Google anything that you find suspicious or anything that you don't know at all.</li>
     <li align="justify">Spare your time to make write up after you exploit a machine. It will make you understand better your current methodology and how to improve it. Someday you may also encounter similar machines and it will help you.</li>
 </ul>
+<br><br>
