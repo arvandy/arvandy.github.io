@@ -11,7 +11,7 @@ tags: [oscp]
 **Exploited Machines:** 14 <br>
 (Alice, Barry, Bob, FC4, Gh0st, Helpdesk, Kraken, Mike, Pain, Payday, Phoenix, Ralph, Sherlock, Sufferance) <br>
 **Unlocked Networks:** 1 of 4 <br>
-
+<br>
 **Day 1 - 4**
 <br>
 <p style="text-align: justify;">
@@ -41,7 +41,6 @@ There are four hardest machines in the OSCP lab that known as The Big Four. Thos
 **Day 6** <br>
 **Exploited Machines (2): SUFFERANCE and Kraken** <br>
 **Low Privilege Shell (1): GH0ST** <br>
-<br>
 <p style="text-align: justify;">
 This is where the suffering start. I start attacking SUFFERANCE on 04:30 for 10 hours straight! I take two regular breaks for breakfast and lunch about 2 hours with my mind keep thinking on how to tame this beast. The hardest part was getting a low privilege shell. The low privilege shell required us to know the old famous vulnerability. I am lucky I have read about this kind of vulnerability before from my OSCP preparation. The privilege escalation is straightforward and I have encountered this kind of privesc before. </p> <br>
 <p align="center">
@@ -52,7 +51,6 @@ At the night I start attacking GH0ST around 19:30 and got low privilege shell ar
 <br>
 **Day 7** <br>
 **Exploited Machines (2): GH0ST and FC4** <br>
-<br>
 <p style="text-align: justify;">
 After getting enough sleep, I successfully gain root access in 1 hour. Same as PAIN, understanding exploits playing an important role to exploit this machine.  In the afternoon, I exploited one more machine which is FC4. This machine is hard, fun and mind-blowing for me. </p> <br>
 <p align="center">
