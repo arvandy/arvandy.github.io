@@ -15,7 +15,7 @@ Amazing Week! My exam scheduled on Wednesday, 15 August 2018 15:00 (Asia/Jakart
 I simplified my enum script just to run the Nmap and OneTwoPunch tools. Nmap used to run a quick scan using -sV and -sC flag while the OneTwoPunch will run full TCP and UDP port scanning. I tried the script on the lab machines and its working fine. Single host scan took around 15-20 minutes to finish. There are five machines in the exam network with two 25 point machines, two 20 point machines, and one 10 point machine. The minimal points to pass is 70.
 </p>
 <br>
-<p style="text-align: justify;">
+
 <b>This is the exam plan:</b><br>
 15:00 - 15:15 = Check VPN connection, read exam instructions carefully and making note <br>
 15:15 - 17:00 = Exploiting Machine 1 (25 Points) <br>
@@ -27,7 +27,7 @@ I simplified my enum script just to run the Nmap and OneTwoPunch tools. Nmap use
 07:00 - 08:00 = Break <br>
 08:00 - 11:00 = Exploiting Machine 5 (25 Points) <br>
 11:00 - 12:00 = Break <br>
-12:00 - 14:30 = Final check and gather necessary documentation </p>
+12:00 - 14:30 = Final check and gather necessary documentation 
 <br>
 <p style="text-align: justify;">
 <b>This is the actual:</b><br>
