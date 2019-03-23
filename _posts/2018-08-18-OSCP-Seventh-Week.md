@@ -32,17 +32,17 @@ I simplified my enum script just to run the Nmap and OneTwoPunch tools. Nmap use
 
 <b>This is the actual:</b><br>
 15:00 - 15:10 = Check VPN connection, read exam instructions carefully and making note <br>
-<font color="blue">15:10 - 15:45 = Successfully exploiting machine 1 (25 Points) </font>
+15:10 - 15:45 = Successfully exploiting machine 1 (25 Points) <br>
 15:45 - 15:55 = Ten minutes short break <br>
-<font color="blue">15:55 - 16:10 = Successfully exploiting machine 2 (10 Points) </font>
+15:55 - 16:10 = Successfully exploiting machine 2 (10 Points) <br>
 16:10 - 16:20 = Ten minutes short break <br>
 16:20 - 17:00 = Working on machine 3 (20 points, stuck) <br>
-<font color="blue">17:00 - 18:00 = Successfully exploiting machine 4 (25 Points) </font>
+17:00 - 18:00 = Successfully exploiting machine 4 (25 Points) <br>
 18:00 - 18:10 = Collect necessary screenshots for machine 4 <br>
 18:10 - 18:20 = Another ten minutes short break <br>
 18:20 - 19:00 = Back working on machine 3 (Got access to certain service but no shell) <br>
 19:00 - 20:00 = One hour break for dinner <br>
-<font color="blue">20:00 - 20:42 = Successfully exploiting machine 5 (20 Points) </font>
+20:00 - 20:42 = Successfully exploiting machine 5 (20 Points) <br>
 20:42 - 21:00 = Collect necessary screenshots for machine 5 <br>
 21:00 - 21:10 = Another ten minutes short break<br>
 21:10 - 23:00 = Working on machine 3 (Found another hidden service and privilege escalation vector but still no shell)<br>
