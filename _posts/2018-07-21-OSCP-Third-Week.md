@@ -3,16 +3,16 @@ layout: post
 title: OSCP Third Week
 tags: [oscp]
 ---
-
-**Date:** 15 July - 21 July 2018 <br>
-**PDF:** 380/380 <br>
-**Videos:** 149/149 <br>
-**Exercises:** 37/42 <br>
-**Exploited Machines:** 50 <br>
+<p style="text-align: justify;">
+<b>Date:</b> 15 July - 21 July 2018 <br>
+<b>PDF:</b> 380/380 <br>
+<b>Videos:</b> 149/149 <br>
+<b>Exercises:</b> 37/42 <br>
+<b>Exploited Machines:</b> 50 <br>
 (Alice, Alpha, Barry, Beta, Bethany, Bob, Brett, Carol, Carrie, Core, Cory, DJ, Dotty, FC4, Gamma, Gh0st, Helpdesk, Hotline, JD, James, Jeff, Joe, John, Kevin, Kraken, Leftturn, Luigi, Mail, Mario, Master, Mike, Niky, Nina, Observer, Oracle, Pain, Payday, Pedro, Phoenix, Pi, Punchout, Ralph, Sean, Sherlock, Slave, Sufferance, Susie, Timeclock, Tophat, Tricia) <br>
-**Unlocked Networks:** 4 of 4 <br>
-(Public, IT, Development and Admin)<br>
-<br>
+<b>Unlocked Networks:</b> 4 of 4 <br>
+(Public, IT, Development and Admin)</p><br>
+
 
 **Day 15**<br>
 **Exploited Machines (2): Master and Bethany**<br><br>
