@@ -4,6 +4,7 @@ title: OSCP Fourth Week
 tags: [oscp]
 ---
 
+<p style="text-align: justify;">
 **Date:** 22 July - 28 July 2018 <br>
 **PDF:** 380/380 <br>
 **Videos:** 149/149 <br>
@@ -11,7 +12,7 @@ tags: [oscp]
 **Exploited Machines:** 53 <br>
 (Alice, Alpha, Barry, Beta, Bethany, Bob, Brett, Carol, Carrie, Core, Cory, DJ, Dotty, FC4, Gamma, Gh0st, Helpdesk, Hotline, Humble, Internal, JD, Jack, James, Jeff, Joe, John, Kevin, Kraken, Leftturn, Luigi, Mail, Mario, Master, Mike, Niky, Nina, Observer, Oracle, Pain, Payday, Pedro, Phoenix, Pi, Punchout, Ralph, Sean, Sherlock, Slave, Sufferance, Susie, Timeclock, Tophat, Tricia) <br>
 **Unlocked Networks:** 4 of 4 <br>
-(Public, IT, Development and Admin)<br><br>
+(Public, IT, Development and Admin)</p><br><br>
 
 **Day 22**<br>
 **Exploited Machines (1): Jack**<br><br>
@@ -25,12 +26,12 @@ tags: [oscp]
 <p align="center">
   <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/oscp/HUMBLE.png">
 </p>
-<br><br>
+<br>
 **Day 25 - Day 28**<br>
 **Doing Lab Report and Remaining Exercises**<br><br>
 <p style="text-align: justify;">
 I just realized the "Big Four" term is not from OffSec, its the term created by the students due to the difficulty of the machines. I found there are several machines that more difficult for me to exploits than the Big Four. My version of Big Four will be Jack, Humble, Sufferance and Observer. Those machines required a lot of enumerations, troubleshooting and fuzzing to gains the low privilege shell. It required more works and patience compared to other machines in the lab. The privilege escalation on those machines is easier compared to the effort to gain the low privilege shell.</p>
-<br><br>
+<br>
 <p style="text-align: justify;">
 My lab report has the total of 145 pages with the first 74 pages are the pen-test report for 10 machines in the lab and the remaining pages for the PWK Course exercises. I am following the template provided by OffSec with this structure:</p>
 <br>
