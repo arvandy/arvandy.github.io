@@ -3,14 +3,14 @@ layout: post
 title: OSCP First Week
 tags: [oscp]
 ---
-
-**Date:** 01 July - 07 July 2018 <br>
-**PDF:** 380/380 <br>
-**Videos:** 149/149 <br>
-**Exercises:** 37/42 <br>
-**Exploited Machines:** 14 <br>
+<p style="text-align: justify;">
+<b>Date:</b> 01 July - 07 July 2018 <br>
+<b>PDF:</b> 380/380 <br>
+<b>Videos:</b> 149/149 <br>
+<b>Exercises:</b> 37/42 <br>
+<b>Exploited Machines:</b> 14 <br>
 (Alice, Barry, Bob, FC4, Gh0st, Helpdesk, Kraken, Mike, Pain, Payday, Phoenix, Ralph, Sherlock, Sufferance) <br>
-**Unlocked Networks:** 1 of 4 <br>
+<b>Unlocked Networks:</b> 1 of 4 </p>
 <br>
 **Day 1 - 4**
 <br>
