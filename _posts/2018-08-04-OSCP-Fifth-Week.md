@@ -5,13 +5,13 @@ tags: [oscp]
 ---
 
 <p style="text-align: justify;">
-<b>Date:</b> 29 July - 04 August 2018
-<b>PDF:</b> 380/380
-<b>Videos:</b> 149/149
-<b>Exercises:</b> 42/42
-<b>Exploited Machines:</b> 53
-(Alice, Alpha, Barry, Beta, Bethany, Bob, Brett, Carol, Carrie, Core, Cory, DJ, Dotty, FC4, Gamma, Gh0st, Helpdesk, Hotline, Humble, Internal, JD, Jack, James, Jeff, Joe, John, Kevin, Kraken, Leftturn, Luigi, Mail, Mario, Master, Mike, Niky, Nina, Observer, Oracle, Pain, Payday, Pedro, Phoenix, Pi, Punchout, Ralph, Sean, Sherlock, Slave, Sufferance, Susie, Timeclock, Tophat, Tricia)
-<b>Unlocked Networks:</b> 4 of 4
+<b>Date:</b> 29 July - 04 August 2018 <br>
+<b>PDF:</b> 380/380 <br>
+<b>Videos:</b> 149/149 <br>
+<b>Exercises:</b> 42/42 <br>
+<b>Exploited Machines:</b> 53 <br>
+(Alice, Alpha, Barry, Beta, Bethany, Bob, Brett, Carol, Carrie, Core, Cory, DJ, Dotty, FC4, Gamma, Gh0st, Helpdesk, Hotline, Humble, Internal, JD, Jack, James, Jeff, Joe, John, Kevin, Kraken, Leftturn, Luigi, Mail, Mario, Master, Mike, Niky, Nina, Observer, Oracle, Pain, Payday, Pedro, Phoenix, Pi, Punchout, Ralph, Sean, Sherlock, Slave, Sufferance, Susie, Timeclock, Tophat, Tricia) <br>
+<b>Unlocked Networks:</b> 4 of 4 <br>
 (Public, IT, Development and Admin)</p>
 <br>
 <p style="text-align: justify;">
