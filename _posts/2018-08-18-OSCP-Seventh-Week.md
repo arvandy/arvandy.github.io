@@ -52,7 +52,7 @@ I simplified my enum script just to run the Nmap and OneTwoPunch tools. Nmap use
 08:00 - 09:30 = Decided to skip the last machine and focus on triple checks the exam guidelines and gather necessary documentation screenshots <br>
 09:30 - 12:00 = Going to college to finish some administration stuff <br>
 12:00 - 14:45 = Start doing the exam reports <br>
-
+<br>
 <p style="text-align: justify;">
 Overall the exam machines are not too hard but a little bit tricky with a few rabbit holes. Keep calm and stay focus. The exam did not require any advanced techniques or exploitation. All that you learned from the course and lab will get you through it. Don't get stuck too long on one machine when you still have other machines to exploits.
 </p> <br>
@@ -73,7 +73,7 @@ Finally, at 18 August 2018 01:29, the email results arrived. It's faster than I 
 I didn't write much about the technical things since there are a lot of very good resources out there. You need to learn to do your own research. Google-fu is one of the must-have skills when doing PWK course. By simply typing "OSCP cheat sheet" on Google, you will find a lot of good resources. Since this is once in a lifetime experiences, I decide to record my exam process in timelapse.
 </p>
 <br>
-<div align="center">
+<div align="center" width="800" height="600">
   <a href="https://www.youtube.com/watch?v=wj6c4gbl6u4"><img src="https://img.youtube.com/vi/wj6c4gbl6u4/0.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
 <br>
