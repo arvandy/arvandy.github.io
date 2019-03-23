@@ -20,12 +20,12 @@ Nothing much to be updated, I did several things this week: </p>
 <li align="justify">Re-exploiting machines in the lab. </li>
 <li align="justify">Exploiting some VulnHub machines that similar to OSCP. </li>
 <li align="justify">Practicing Windows Privilege Escalation and Buffer Overflow (Brainpan, VulnServer, Minishare, PCMan, etc). <br>
-https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/ <br>
-https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/ <br>
-http://www.fuzzysecurity.com/tutorials/16.html <br> </li>
+<a href="https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/" target="_blank">https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/</a> <br>
+<a href="https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/" target="_blank">https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/</a> <br>
+<a href="http://www.fuzzysecurity.com/tutorials/16.html" target="_blank">http://www.fuzzysecurity.com/tutorials/16.html</a> <br> </li>
 <li align="justify">Learn more about file transfer method (HTTP, PowerShell, Samba, etc) <br>
-https://blog.ropnop.com/transferring-files-from-kali-to-windows/ <br>
-https://blog.netspi.com/15-ways-to-download-a-file/ </li>
+<a href="https://blog.ropnop.com/transferring-files-from-kali-to-windows/" target="_blank">https://blog.ropnop.com/transferring-files-from-kali-to-windows/</a> <br>
+<a href="https://blog.netspi.com/15-ways-to-download-a-file/" target="_blank">https://blog.netspi.com/15-ways-to-download-a-file/</a> </li>
 </ul>
 <br>
 <p style="text-align: justify;">
