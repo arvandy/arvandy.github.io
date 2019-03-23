@@ -16,17 +16,17 @@ tags: [oscp]
 <br>
 <p style="text-align: justify;">
 Nothing much to be updated, I did several things this week: </p>
-<li>
-<ul align="justify">Re-exploiting machines in the lab. </ul>
-<ul align="justify">Exploiting some VulnHub machines that similar to OSCP. </ul>
-<ul align="justify">Practicing Windows Privilege Escalation and Buffer Overflow (Brainpan, VulnServer, Minishare, PCMan, etc). <br>
+<ul>
+<li align="justify">Re-exploiting machines in the lab. </li>
+<li align="justify">Exploiting some VulnHub machines that similar to OSCP. </li>
+<li align="justify">Practicing Windows Privilege Escalation and Buffer Overflow (Brainpan, VulnServer, Minishare, PCMan, etc). <br>
 https://www.sploitspren.com/2018-01-26-Windows-Privilege-Escalation-Guide/ <br>
 https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/ <br>
-http://www.fuzzysecurity.com/tutorials/16.html <br> </ul>
-<ul align="justify">Learn more about file transfer method (HTTP, PowerShell, Samba, etc) <br>
+http://www.fuzzysecurity.com/tutorials/16.html <br> </li>
+<li align="justify">Learn more about file transfer method (HTTP, PowerShell, Samba, etc) <br>
 https://blog.ropnop.com/transferring-files-from-kali-to-windows/ <br>
-https://blog.netspi.com/15-ways-to-download-a-file/ </ul>
-</li>
+https://blog.netspi.com/15-ways-to-download-a-file/ </li>
+</ul>
 <br>
 <p style="text-align: justify;">
 I feel ready and excited for the upcoming exam. Hope there are no issues happen during the exam such as connectivity, electricity, etc. I did prepare a backup plan in case those things happen.</p>
