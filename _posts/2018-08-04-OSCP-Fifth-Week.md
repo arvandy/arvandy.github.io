@@ -3,6 +3,7 @@ layout: post
 title: OSCP Fifth Week
 tags: [oscp]
 ---
+
 <p style="text-align: justify;">
 <b>Date:</b> 29 July - 04 August 2018
 <b>PDF:</b> 380/380
