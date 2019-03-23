@@ -29,20 +29,20 @@ I simplified my enum script just to run the Nmap and OneTwoPunch tools. Nmap use
 11:00 - 12:00 = Break <br>
 12:00 - 14:30 = Final check and gather necessary documentation 
 <br>
-<p style="text-align: justify;">
+
 <b>This is the actual:</b><br>
 15:00 - 15:10 = Check VPN connection, read exam instructions carefully and making note <br>
-15:10 - 15:45 = Successfully exploiting machine 1 (25 Points) <br>
+<font color="blue">15:10 - 15:45 = Successfully exploiting machine 1 (25 Points) </font><br>
 15:45 - 15:55 = Ten minutes short break <br>
-15:55 - 16:10 = Successfully exploiting machine 2 (10 Points) <br>
+<font color="blue">15:55 - 16:10 = Successfully exploiting machine 2 (10 Points) </font><br>
 16:10 - 16:20 = Ten minutes short break <br>
 16:20 - 17:00 = Working on machine 3 (20 points, stuck) <br>
-17:00 - 18:00 = Successfully exploiting machine 4 (25 Points) <br>
+<font color="blue">17:00 - 18:00 = Successfully exploiting machine 4 (25 Points) </font><br>
 18:00 - 18:10 = Collect necessary screenshots for machine 4 <br>
 18:10 - 18:20 = Another ten minutes short break <br>
 18:20 - 19:00 = Back working on machine 3 (Got access to certain service but no shell) <br>
 19:00 - 20:00 = One hour break for dinner <br>
-20:00 - 20:42 = Successfully exploiting machine 5 (20 Points) <br>
+<font color="blue">20:00 - 20:42 = Successfully exploiting machine 5 (20 Points) </font><br>
 20:42 - 21:00 = Collect necessary screenshots for machine 5 <br>
 21:00 - 21:10 = Another ten minutes short break<br>
 21:10 - 23:00 = Working on machine 3 (Found another hidden service and privilege escalation vector but still no shell)<br>
@@ -51,7 +51,7 @@ I simplified my enum script just to run the Nmap and OneTwoPunch tools. Nmap use
 07:00 - 08:00 = One hour break for breakfast <br>
 08:00 - 09:30 = Decided to skip the last machine and focus on triple checks the exam guidelines and gather necessary documentation screenshots <br>
 09:30 - 12:00 = Going to college to finish some administration stuff <br>
-12:00 - 14:45 = Start doing the exam reports </p><br>
+12:00 - 14:45 = Start doing the exam reports <br>
 
 <p style="text-align: justify;">
 Overall the exam machines are not too hard but a little bit tricky with a few rabbit holes. Keep calm and stay focus. The exam did not require any advanced techniques or exploitation. All that you learned from the course and lab will get you through it. Don't get stuck too long on one machine when you still have other machines to exploits.
