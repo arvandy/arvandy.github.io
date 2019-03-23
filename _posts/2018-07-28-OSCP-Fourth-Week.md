@@ -5,14 +5,14 @@ tags: [oscp]
 ---
 
 <p style="text-align: justify;">
-**Date:** 22 July - 28 July 2018 <br>
-**PDF:** 380/380 <br>
-**Videos:** 149/149 <br>
-**Exercises:** 42/42 <br>
-**Exploited Machines:** 53 <br>
+<b>Date:</b> 22 July - 28 July 2018 <br>
+<b>PDF:</b> 380/380 <br>
+<b>Videos:</b> 149/149 <br>
+<b>Exercises:</b> 42/42 <br>
+<b>Exploited Machines:</b> 53 <br>
 (Alice, Alpha, Barry, Beta, Bethany, Bob, Brett, Carol, Carrie, Core, Cory, DJ, Dotty, FC4, Gamma, Gh0st, Helpdesk, Hotline, Humble, Internal, JD, Jack, James, Jeff, Joe, John, Kevin, Kraken, Leftturn, Luigi, Mail, Mario, Master, Mike, Niky, Nina, Observer, Oracle, Pain, Payday, Pedro, Phoenix, Pi, Punchout, Ralph, Sean, Sherlock, Slave, Sufferance, Susie, Timeclock, Tophat, Tricia) <br>
-**Unlocked Networks:** 4 of 4 <br>
-(Public, IT, Development and Admin)</p><br><br>
+<b>Unlocked Networks:</b> 4 of 4 <br>
+(Public, IT, Development and Admin)</p><br>
 
 **Day 22**<br>
 **Exploited Machines (1): Jack**<br><br>
