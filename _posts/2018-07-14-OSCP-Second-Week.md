@@ -3,15 +3,15 @@ layout: post
 title: OSCP Second Week
 tags: [oscp]
 ---
-
-**Date:** 08 July - 14 July 2018 <br>
-**PDF:** 380/380 <br>
-**Videos:** 149/149 <br>
-**Exercises:** 37/42 <br>
-**Exploited Machines:** 34 <br>
+<p style="text-align: justify;">
+<b>Date:</b> 08 July - 14 July 2018 <br>
+<b>PDF:</b> 380/380 <br>
+<b>Videos:</b> 149/149 <br>
+<b>Exercises:</b> 37/42 <br>
+<b>Exploited Machines:</b> 34 <br>
 (Alice, Alpha, Barry, Beta, Bob, Core, DJ, Dotty, FC4, Gamma, Gh0st, Helpdesk, Hotline, JD, Joe, Kevin, Kraken, Leftturn, Mail, Mike, Observer, Oracle, Pain, Payday, Pedro, Phoenix, Punchout, Ralph, Sean, Sherlock, Slave, Sufferance, Susie, Tophat) <br>
-**Unlocked Networks:** 2 of 4 <br>
-(Public, IT) <br>
+<b>Unlocked Networks:</b> 2 of 4 <br>
+(Public, IT) </p>
 <br>
 
 **Day 8**<br>
