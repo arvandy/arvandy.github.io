@@ -32,7 +32,7 @@ I simplified my enum script just to run the Nmap and OneTwoPunch tools. Nmap use
 
 <b>This is the actual:</b><br>
 15:00 - 15:10 = Check VPN connection, read exam instructions carefully and making note <br>
-15:10 - 15:45 = Successfully exploiting machine 1 (25 Points) <br>
+<span style="color:blue">15:10 - 15:45 = Successfully exploiting machine 1 (25 Points)</span> <br>
 15:45 - 15:55 = Ten minutes short break <br>
 15:55 - 16:10 = Successfully exploiting machine 2 (10 Points) <br>
 16:10 - 16:20 = Ten minutes short break <br>
