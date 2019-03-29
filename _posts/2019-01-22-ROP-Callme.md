@@ -6,10 +6,10 @@ tags: [rop]
 
 **Callme 32 Bit**
 <br><br>
-In this challenge, we need to execute callme_one(), callme_two() and callme_three() function sequentially in that order. Each function must contains arguments 1,2,3 e.g. callme_one(1,2,3) to get the flag.
-<br><br>
-Let's find the EIP offset using Radare2.
-<br><br>
+In this challenge, we need to execute callme_one(), callme_two() and callme_three() function sequentially in that order. Each function must contains arguments 1,2,3 e.g. callme_one(1,2,3) to get the flag. <br><br>
+
+Let's find the EIP offset using Radare2.<br><br>
+
 ```bash
 root@Perseverance:~/rop_emporium/callme32# r2 -de dbg.profile=profile.rr2 callme32 
 Process with PID 4926 started...
