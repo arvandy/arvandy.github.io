@@ -90,8 +90,8 @@ Key to Flags:
   p (processor specific)
 ```
 <br>
-<p align="justify>
-The .data section is writable. We will write the "/bin/sh" string into .data section but we need to write a few bytes after the start address because of the start address (0x0804a038) used by libc. In this case, I will write the string into "0x0804a03C" or 5 bytes after start address.<br><br></p>
+
+The .data section is writable. We will write the "/bin/sh" string into .data section but we need to write a few bytes after the start address because of the start address (0x0804a038) used by libc. In this case, I will write the string into "0x0804a03C" or 5 bytes after start address.<br><br>
 
 Below python script will XOR each character from "/bin//sh" string with a value (start from 0x00 and will increase by 1 if the result is in BadChars list) and then save what value it's being XOR-ed with.<br><br>
 
