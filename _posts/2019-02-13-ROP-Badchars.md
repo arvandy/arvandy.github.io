@@ -6,8 +6,9 @@ tags: [rop]
 
 **Badchars 32 Bit**
 <br><br>
+<p align="justify">
 Overall the objective still same, write "/bin/sh" string into memory and then execute system command with "/bin/string" as the argument, but we need to handle the Badchars (Bad Characters) in this challenge. Badchars are any character(s) that can terminate our crafted payload, such as null character ("\x00"), carriage return ("\x0D"), newline ("\x0A"), etc. So we need to make sure the payload that we crafted not containing any badchars. If we run the binary, it will print the information about which characters are the Badchars.
-<br><br>
+<br><br></p>
 
 ```bash
 root@Perseverance:~/rop_emporium/badchars32# ./badchars32
