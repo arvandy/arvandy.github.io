@@ -4,6 +4,11 @@ title: ROP Emporium - Callme
 tags: [rop]
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/rop/callme.PNG">
+</p>
+<br>
+
 **Callme 32 Bit**
 <br><br>
 In this challenge, we need to execute callme_one(), callme_two() and callme_three() function sequentially in that order. Each function must contains arguments 1,2,3 e.g. callme_one(1,2,3) to get the flag. <br><br>
