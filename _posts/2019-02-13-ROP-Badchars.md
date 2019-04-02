@@ -3,12 +3,10 @@ layout: post
 title: ROP Emporium - Badchars
 tags: [rop]
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/arvandy/arvandy.github.io/master/img/rop/badchars.PNG">
 </p>
 <br>
-
 **Badchars 32 Bit**
 <br><br>
 <p align="justify">
